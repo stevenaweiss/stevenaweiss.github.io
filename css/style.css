@@ -314,7 +314,8 @@
 
 					ul.icons a:hover
 					{
-						background: rgba(0,0,0,0.025);
+						background: rgba(230,255,255,0.25);
+						/*background: #4f4f4f;*/
 					}
 
 		ul.menu
@@ -744,6 +745,7 @@
 			{
 				display: none;
 			}
+
 			
 		.fa:before
 		{
